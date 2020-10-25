@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/secondtry/static/css/main.8591d555.chunk.css",
+    "main.js": "/secondtry/static/js/main.7ce47a6f.chunk.js",
+    "main.js.map": "/secondtry/static/js/main.7ce47a6f.chunk.js.map",
+    "runtime-main.js": "/secondtry/static/js/runtime-main.bd38766e.js",
+    "runtime-main.js.map": "/secondtry/static/js/runtime-main.bd38766e.js.map",
+    "static/js/2.05bd76ba.chunk.js": "/secondtry/static/js/2.05bd76ba.chunk.js",
+    "static/js/2.05bd76ba.chunk.js.map": "/secondtry/static/js/2.05bd76ba.chunk.js.map",
+    "index.html": "/secondtry/index.html",
+    "static/css/main.8591d555.chunk.css.map": "/secondtry/static/css/main.8591d555.chunk.css.map",
+    "static/js/2.05bd76ba.chunk.js.LICENSE.txt": "/secondtry/static/js/2.05bd76ba.chunk.js.LICENSE.txt",
+    "static/media/img-5.7fadbe1b.jpg": "/secondtry/static/media/img-5.7fadbe1b.jpg",
+    "static/media/img-6.047226b0.jpg": "/secondtry/static/media/img-6.047226b0.jpg",
+    "static/media/img-7.dfeef525.jpg": "/secondtry/static/media/img-7.dfeef525.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd38766e.js",
+    "static/js/2.05bd76ba.chunk.js",
+    "static/css/main.8591d555.chunk.css",
+    "static/js/main.7ce47a6f.chunk.js"
+  ]
+}
