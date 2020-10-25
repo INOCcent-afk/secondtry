@@ -1,0 +1,22 @@
+header {
+  height: 80px;
+  width: 100%;
+  display: flex;
+  background: #141414;
+  position: fixed;
+  font-family: sans-serif;
+  align-items: center;
+  justify-content: space-evenly;
+
+  .logo {
+    color: #fff;
+  }
+  .links {
+    color: #fff;
+    display: flex;
+    gap: 50px;
+    p {
+      cursor: pointer;
+    }
+  }
+}
